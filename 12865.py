@@ -1,6 +1,3 @@
-from pyrsistent import m, v
-
-
 max_value = 0
 max_weight = 0
 max_n = 0
